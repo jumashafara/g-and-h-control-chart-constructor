@@ -4,11 +4,11 @@ This is a class used to create `g` and `h` objects that have parameters(fields) 
 
 ## Parameters or fields
 
-`path` - path to the data set
-`data` - the data set to be used
-`total` - specifies if the totals are contained on the data set
-`mean` - specifies if the means are contained on the data set
-`alpha` - minimum number of events
+1. `path` - path to the data set
+2. `data` - the data set to be used
+3. `total` - specifies if the totals are contained on the data set
+4. `mean` - specifies if the means are contained on the data set
+5. `alpha` - minimum number of events
 
 ## Methods
 
